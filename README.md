@@ -1,6 +1,6 @@
 # Covid-19 Vaccination Analysis
 
-- A data analysis on the first 3 months of Covid-19 Vaccinaction drive (worldwide)
+- A data analysis on the first 3 months of Covid-19 Vaccination drive (worldwide)
 
 - Dataset analysed is compiled by [@Gabriel Preda](https://www.kaggle.com/gpreda), who in turn collects data daily from the [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) GitHub repository
 
